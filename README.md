@@ -1,4 +1,5 @@
 # Who is Tamara? 
+
 Public Health Data Analyst 
 
 ● Data Analyst with 10+ years of experience in advanced analytics, program development across 
@@ -31,10 +32,15 @@ and resource allocation.
 # TECHNICAL SKILLS 
 
 SQL, Python (Pandas, Numpy, Plotly, Dash, Scikit), R 
+
 IBM Cognos Analytics, Tableau, Power BI, Looker Studio, R(ggplot), Python 
+
 IBM Watson Studio, Jupyter Notebook, Microsoft Office 
-MySQL, SQLite, IBM Cloud,  
+
+MySQL, SQLite, IBM Cloud
+
 Agile, Waterfall, Scrum, Trello, Survey design, Policy Analysis 
+
 Predictive analytics, Clustering, Regression, NLP 
 
 # EDUCATION & CERTIFICATIONS 
@@ -57,5 +63,6 @@ Al-Quds University | Jerusalem, Palestine    Graduated 2009
 
 ● Awwad T. Assessment of Data Quality for Maternal and Child Health Department at Primary Health Care 
 Directorate-Tulkarm. 2015. [Dissertation].  
+
 ● Awwad T..., et al. A time-motion study to assess the workflow and use of the electronic maternal and 
 child health registry (MCH eRegistry) at primary healthcare clinics in Palestine. Lancet. March 2018. 
