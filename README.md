@@ -1,33 +1,12 @@
 # Who is Tamara? 
 
-Public Health Data Analyst 
+Tamara Marie is a Public Health Data Analyst with over ten years of experience in advanced analytics and program development across healthcare, nonprofit, and innovation ecosystems. She specializes in predictive analysis and extracting insights from large-scale datasets to inform strategic decisions. 
 
-● Data Analyst with 10+ years of experience in advanced analytics, program development across 
-healthcare, nonprofit, innovation ecosystems, and predictive analysis to extract insights from 
-large-scale datasets. 
+Tamara has extensive expertise in creating interactive dashboards, reports, and data-driven narratives that translate complex findings into actionable insights for diverse audiences, supporting evidence-based decision-making. She is skilled in sourcing, assessing, and supporting early-stage initiatives, with a strong track record in stakeholder engagement, equity-focused program delivery, and transparent reporting.
 
-● Expertise in interactive dashboard creation, reporting, and storytelling to translate complex findings into 
-actionable insights for diverse audiences, supporting evidence-based decision-making. 
+As a team leader, she has guided analytics teams, fostered cross-functional collaboration, and mentored professionals in advanced analytics methodologies, emphasizing teamwork and knowledge-sharing. Her experience includes developing predictive models and statistical frameworks to forecast healthcare needs, optimizing interventions, and improving electronic health record (EHR) systems and registries—particularly through data quality enhancement and evaluation of digital data use in the Palestinian health sector. 
 
-● Skilled in sourcing, assessing, and supporting early-stage initiatives, with a strong track record in 
-reporting, stakeholder engagement, and equity-focused program delivery 
-
-● Experienced in leading analytics teams, fostering cross-functional collaboration, and mentoring 
-professionals in advanced analytics methodologies. Strong ability to promote teamwork and 
-knowledge-sharing. 
-
-● Developed predictive models and statistical frameworks to forecast healthcare needs and optimise 
-interventions. Contributed to enhancing EHR systems and registries by improving data quality and 
-evaluating digital data usage in the Palestinian health sector. 
-
-● Superior written and oral communication skills with the ability to simplify technical analyses for diverse 
-audiences. Work has been featured in international conferences and published in The Lancet and BMC. 
-Active member of YYC Data Meetup, engaging in discussions on AI, data science, and public health 
-policy development. 
-
-● Co-founded Marie Garden, a small family business in Palestine. Fluent in English & Arabic, with a 
-passion for integrating AI and advanced analytics into business decision-making to improve outcomes 
-and resource allocation. 
+Tamara’s superior communication skills enable her to simplify technical analyses for varied audiences. Her work has been featured in international conferences and published in The Lancet and BMC. An active member of the YYC Data Meetup, she contributes to discussions on AI, data science, and public health policy development. In addition, she co-founded Marie Garden, a small family business in Palestine. Fluent in English and Arabic, Tamara is passionate about integrating AI and advanced analytics into business and public health decision-making to improve outcomes and optimize resource allocation.
 
 # TECHNICAL SKILLS 
 
